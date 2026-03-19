@@ -86,9 +86,11 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add Link)
-* 🌐 Portfolio: (Add Link)
-* 📧 Email: (Add Email)
+* 💼 LinkedIn: https://www.linkedin.com/in/rohit-tambadkar/
+* ✍️ Hashnode Blog: https://hashnode.com/@ron16
+* 💻 GitHub: https://github.com/rohityt0dev
+* 📧 Email: [rohityt0@gmail.com](mailto:rohityt0@gmail.com)
+
 
 ---
 
